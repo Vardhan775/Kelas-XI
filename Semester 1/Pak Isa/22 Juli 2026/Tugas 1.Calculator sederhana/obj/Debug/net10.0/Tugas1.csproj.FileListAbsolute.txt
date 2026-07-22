@@ -1,0 +1,14 @@
+C:\Users\Kaito\source\repos\Tugas 1.Calculator sederhana\Tugas 1.Calculator sederhana\obj\Debug\net10.0\Tugas1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaito\source\repos\Tugas 1.Calculator sederhana\Tugas 1.Calculator sederhana\obj\Debug\net10.0\Tugas1.AssemblyInfoInputs.cache
+C:\Users\Kaito\source\repos\Tugas 1.Calculator sederhana\Tugas 1.Calculator sederhana\obj\Debug\net10.0\Tugas1.AssemblyInfo.cs
+C:\Users\Kaito\source\repos\Tugas 1.Calculator sederhana\Tugas 1.Calculator sederhana\obj\Debug\net10.0\Tugas1.csproj.CoreCompileInputs.cache
+C:\Users\Kaito\source\repos\Tugas 1.Calculator sederhana\Tugas 1.Calculator sederhana\bin\Debug\net10.0\Tugas1.exe
+C:\Users\Kaito\source\repos\Tugas 1.Calculator sederhana\Tugas 1.Calculator sederhana\bin\Debug\net10.0\Tugas1.deps.json
+C:\Users\Kaito\source\repos\Tugas 1.Calculator sederhana\Tugas 1.Calculator sederhana\bin\Debug\net10.0\Tugas1.runtimeconfig.json
+C:\Users\Kaito\source\repos\Tugas 1.Calculator sederhana\Tugas 1.Calculator sederhana\bin\Debug\net10.0\Tugas1.dll
+C:\Users\Kaito\source\repos\Tugas 1.Calculator sederhana\Tugas 1.Calculator sederhana\bin\Debug\net10.0\Tugas1.pdb
+C:\Users\Kaito\source\repos\Tugas 1.Calculator sederhana\Tugas 1.Calculator sederhana\obj\Debug\net10.0\Tugas1.dll
+C:\Users\Kaito\source\repos\Tugas 1.Calculator sederhana\Tugas 1.Calculator sederhana\obj\Debug\net10.0\refint\Tugas1.dll
+C:\Users\Kaito\source\repos\Tugas 1.Calculator sederhana\Tugas 1.Calculator sederhana\obj\Debug\net10.0\Tugas1.pdb
+C:\Users\Kaito\source\repos\Tugas 1.Calculator sederhana\Tugas 1.Calculator sederhana\obj\Debug\net10.0\Tugas1.genruntimeconfig.cache
+C:\Users\Kaito\source\repos\Tugas 1.Calculator sederhana\Tugas 1.Calculator sederhana\obj\Debug\net10.0\ref\Tugas1.dll
