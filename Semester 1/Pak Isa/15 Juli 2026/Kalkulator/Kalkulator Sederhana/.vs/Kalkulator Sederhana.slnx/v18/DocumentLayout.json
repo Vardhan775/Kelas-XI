@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kaito\\Documents\\Kelas XI RPL\\Semester 1\\Pak Isa\\15 Juli 2026\\Kalkulator\\Kalkulator Sederhana\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1BC42F-3810-4232-855B-F38A9C1F22A9}|Kalkulator Sederhana\\Kalkulator Sederhana.csproj|c:\\users\\kaito\\documents\\kelas xi rpl\\semester 1\\pak isa\\15 juli 2026\\kalkulator\\kalkulator sederhana\\kalkulator sederhana\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD1BC42F-3810-4232-855B-F38A9C1F22A9}|Kalkulator Sederhana\\Kalkulator Sederhana.csproj|solutionrelative:kalkulator sederhana\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1BC42F-3810-4232-855B-F38A9C1F22A9}|Kalkulator Sederhana\\Kalkulator Sederhana.csproj|C:\\Users\\Kaito\\Documents\\Kelas XI RPL\\Semester 1\\Pak Isa\\15 Juli 2026\\Kalkulator\\Kalkulator Sederhana\\kalkulator sederhana\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1BC42F-3810-4232-855B-F38A9C1F22A9}|Kalkulator Sederhana\\Kalkulator Sederhana.csproj|solutionrelative:kalkulator sederhana\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1BC42F-3810-4232-855B-F38A9C1F22A9}|Kalkulator Sederhana\\Kalkulator Sederhana.csproj|C:\\Users\\Kaito\\Documents\\Kelas XI RPL\\Semester 1\\Pak Isa\\15 Juli 2026\\Kalkulator\\Kalkulator Sederhana\\kalkulator sederhana\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1BC42F-3810-4232-855B-F38A9C1F22A9}|Kalkulator Sederhana\\Kalkulator Sederhana.csproj|solutionrelative:kalkulator sederhana\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Kaito\\Documents\\Kelas XI RPL\\Semester 1\\Pak Isa\\15 Juli 2026\\Kalkulator\\Kalkulator Sederhana\\Kalkulator Sederhana\\Form1.cs",
+              "RelativeDocumentMoniker": "Kalkulator Sederhana\\Form1.cs",
+              "ToolTip": "C:\\Users\\Kaito\\Documents\\Kelas XI RPL\\Semester 1\\Pak Isa\\15 Juli 2026\\Kalkulator\\Kalkulator Sederhana\\Kalkulator Sederhana\\Form1.cs",
+              "RelativeToolTip": "Kalkulator Sederhana\\Form1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T00:55:09.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kaito\\Documents\\Kelas XI RPL\\Semester 1\\Pak Isa\\15 Juli 2026\\Kalkulator\\Kalkulator Sederhana\\Kalkulator Sederhana\\Form1.cs",
+              "RelativeDocumentMoniker": "Kalkulator Sederhana\\Form1.cs",
+              "ToolTip": "C:\\Users\\Kaito\\Documents\\Kelas XI RPL\\Semester 1\\Pak Isa\\15 Juli 2026\\Kalkulator\\Kalkulator Sederhana\\Kalkulator Sederhana\\Form1.cs [Design]",
+              "RelativeToolTip": "Kalkulator Sederhana\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T00:23:24.07Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kaito\\Documents\\Kelas XI RPL\\Semester 1\\Pak Isa\\15 Juli 2026\\Kalkulator\\Kalkulator Sederhana\\Kalkulator Sederhana\\Program.cs",
+              "RelativeDocumentMoniker": "Kalkulator Sederhana\\Program.cs",
+              "ToolTip": "C:\\Users\\Kaito\\Documents\\Kelas XI RPL\\Semester 1\\Pak Isa\\15 Juli 2026\\Kalkulator\\Kalkulator Sederhana\\Kalkulator Sederhana\\Program.cs",
+              "RelativeToolTip": "Kalkulator Sederhana\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T01:27:08.495Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+C:\Users\Kaito\source\repos\Kalkulator Sederhana\Kalkulator Sederhana\bin\Debug\Kalkulator Sederhana.exe.config
+C:\Users\Kaito\source\repos\Kalkulator Sederhana\Kalkulator Sederhana\bin\Debug\Kalkulator Sederhana.exe
+C:\Users\Kaito\source\repos\Kalkulator Sederhana\Kalkulator Sederhana\bin\Debug\Kalkulator Sederhana.pdb
+C:\Users\Kaito\source\repos\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\Kalkulator Sederhana.csproj.AssemblyReference.cache
+C:\Users\Kaito\source\repos\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\Kalkulator_Sederhana.Form1.resources
+C:\Users\Kaito\source\repos\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\Kalkulator_Sederhana.Properties.Resources.resources
+C:\Users\Kaito\source\repos\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\Kalkulator Sederhana.csproj.GenerateResource.cache
+C:\Users\Kaito\source\repos\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\Kalkulator Sederhana.csproj.CoreCompileInputs.cache
+C:\Users\Kaito\source\repos\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\Kalkulator Sederhana.exe
+C:\Users\Kaito\source\repos\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\Kalkulator Sederhana.pdb
+C:\Users\Kaito\Documents\Kelas XI RPL\Semester 1\Pak Isa\15 Juli 2026\Kalkulator\Kalkulator Sederhana\Kalkulator Sederhana\bin\Debug\Kalkulator Sederhana.exe.config
+C:\Users\Kaito\Documents\Kelas XI RPL\Semester 1\Pak Isa\15 Juli 2026\Kalkulator\Kalkulator Sederhana\Kalkulator Sederhana\bin\Debug\Kalkulator Sederhana.exe
+C:\Users\Kaito\Documents\Kelas XI RPL\Semester 1\Pak Isa\15 Juli 2026\Kalkulator\Kalkulator Sederhana\Kalkulator Sederhana\bin\Debug\Kalkulator Sederhana.pdb
+C:\Users\Kaito\Documents\Kelas XI RPL\Semester 1\Pak Isa\15 Juli 2026\Kalkulator\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\Kalkulator Sederhana.csproj.AssemblyReference.cache
+C:\Users\Kaito\Documents\Kelas XI RPL\Semester 1\Pak Isa\15 Juli 2026\Kalkulator\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\Kalkulator_Sederhana.Form1.resources
+C:\Users\Kaito\Documents\Kelas XI RPL\Semester 1\Pak Isa\15 Juli 2026\Kalkulator\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\Kalkulator_Sederhana.Properties.Resources.resources
+C:\Users\Kaito\Documents\Kelas XI RPL\Semester 1\Pak Isa\15 Juli 2026\Kalkulator\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\Kalkulator Sederhana.csproj.GenerateResource.cache
+C:\Users\Kaito\Documents\Kelas XI RPL\Semester 1\Pak Isa\15 Juli 2026\Kalkulator\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\Kalkulator Sederhana.csproj.CoreCompileInputs.cache
+C:\Users\Kaito\Documents\Kelas XI RPL\Semester 1\Pak Isa\15 Juli 2026\Kalkulator\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\Kalkulator Sederhana.exe
+C:\Users\Kaito\Documents\Kelas XI RPL\Semester 1\Pak Isa\15 Juli 2026\Kalkulator\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\Kalkulator Sederhana.pdb
