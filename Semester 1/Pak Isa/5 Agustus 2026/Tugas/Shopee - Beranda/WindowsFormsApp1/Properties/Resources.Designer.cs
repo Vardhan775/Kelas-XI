@@ -144,6 +144,16 @@ namespace WindowsFormsApp1.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap jeans_removebg_preview {
+            get {
+                object obj = ResourceManager.GetObject("jeans-removebg-preview", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Ker_removebg_preview {
             get {
                 object obj = ResourceManager.GetObject("Ker-removebg-preview", resourceCulture);
@@ -167,6 +177,66 @@ namespace WindowsFormsApp1.Properties {
         internal static System.Drawing.Bitmap pulsa_removebg_preview {
             get {
                 object obj = ResourceManager.GetObject("pulsa-removebg-preview", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Screenshot_2026_08_12_023329 {
+            get {
+                object obj = ResourceManager.GetObject("Screenshot 2026-08-12 023329", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Screenshot_2026_08_12_023417 {
+            get {
+                object obj = ResourceManager.GetObject("Screenshot 2026-08-12 023417", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Screenshot_2026_08_12_023649 {
+            get {
+                object obj = ResourceManager.GetObject("Screenshot 2026-08-12 023649", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Screenshot_2026_08_12_025535 {
+            get {
+                object obj = ResourceManager.GetObject("Screenshot 2026-08-12 025535", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Screenshot_2026_08_12_025723 {
+            get {
+                object obj = ResourceManager.GetObject("Screenshot 2026-08-12 025723", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Screenshot_2026_08_12_030030 {
+            get {
+                object obj = ResourceManager.GetObject("Screenshot 2026-08-12 030030", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -227,6 +297,16 @@ namespace WindowsFormsApp1.Properties {
         internal static System.Drawing.Bitmap tas_removebg_preview {
             get {
                 object obj = ResourceManager.GetObject("tas-removebg-preview", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap white_shopping_cart {
+            get {
+                object obj = ResourceManager.GetObject("white shopping cart", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

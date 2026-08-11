@@ -1,0 +1,10 @@
+C:\Users\Kaito\Documents\Kelas XI RPL\Semester 1\Pak Isa\5 Agustus 2026\Tugas\Shopee - Beranda\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Kaito\Documents\Kelas XI RPL\Semester 1\Pak Isa\5 Agustus 2026\Tugas\Shopee - Beranda\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Kaito\Documents\Kelas XI RPL\Semester 1\Pak Isa\5 Agustus 2026\Tugas\Shopee - Beranda\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Kaito\Documents\Kelas XI RPL\Semester 1\Pak Isa\5 Agustus 2026\Tugas\Shopee - Beranda\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Kaito\Documents\Kelas XI RPL\Semester 1\Pak Isa\5 Agustus 2026\Tugas\Shopee - Beranda\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1Beranda.resources
+C:\Users\Kaito\Documents\Kelas XI RPL\Semester 1\Pak Isa\5 Agustus 2026\Tugas\Shopee - Beranda\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Kaito\Documents\Kelas XI RPL\Semester 1\Pak Isa\5 Agustus 2026\Tugas\Shopee - Beranda\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Kaito\Documents\Kelas XI RPL\Semester 1\Pak Isa\5 Agustus 2026\Tugas\Shopee - Beranda\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Kaito\Documents\Kelas XI RPL\Semester 1\Pak Isa\5 Agustus 2026\Tugas\Shopee - Beranda\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Kaito\Documents\Kelas XI RPL\Semester 1\Pak Isa\5 Agustus 2026\Tugas\Shopee - Beranda\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

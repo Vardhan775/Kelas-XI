@@ -1,0 +1,10 @@
+C:\Users\Kaito\source\repos\Zodiak Form\Zodiak Form\bin\Debug\Zodiak Form.exe.config
+C:\Users\Kaito\source\repos\Zodiak Form\Zodiak Form\bin\Debug\Zodiak Form.exe
+C:\Users\Kaito\source\repos\Zodiak Form\Zodiak Form\bin\Debug\Zodiak Form.pdb
+C:\Users\Kaito\source\repos\Zodiak Form\Zodiak Form\obj\Debug\Zodiak Form.csproj.AssemblyReference.cache
+C:\Users\Kaito\source\repos\Zodiak Form\Zodiak Form\obj\Debug\Zodiak_Form.Form1.resources
+C:\Users\Kaito\source\repos\Zodiak Form\Zodiak Form\obj\Debug\Zodiak_Form.Properties.Resources.resources
+C:\Users\Kaito\source\repos\Zodiak Form\Zodiak Form\obj\Debug\Zodiak Form.csproj.GenerateResource.cache
+C:\Users\Kaito\source\repos\Zodiak Form\Zodiak Form\obj\Debug\Zodiak Form.csproj.CoreCompileInputs.cache
+C:\Users\Kaito\source\repos\Zodiak Form\Zodiak Form\obj\Debug\Zodiak Form.exe
+C:\Users\Kaito\source\repos\Zodiak Form\Zodiak Form\obj\Debug\Zodiak Form.pdb

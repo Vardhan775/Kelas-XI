@@ -1,12 +1,36 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Kaito\\source\\repos\\Admin Form\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Kaito\\Documents\\Kelas XI RPL\\Semester 1\\Pak Isa\\5 Agustus 2026\\Admin Form\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE97AFF-5051-4D75-9AD5-B659510648A0}|Admin Form\\Admin Form.csproj|c:\\users\\kaito\\documents\\kelas xi rpl\\semester 1\\pak isa\\5 agustus 2026\\admin form\\admin form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0BE97AFF-5051-4D75-9AD5-B659510648A0}|Admin Form\\Admin Form.csproj|solutionrelative:admin form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kaito\\Documents\\Kelas XI RPL\\Semester 1\\Pak Isa\\5 Agustus 2026\\Admin Form\\Admin Form\\Form1.cs",
+              "RelativeDocumentMoniker": "Admin Form\\Form1.cs",
+              "ToolTip": "C:\\Users\\Kaito\\Documents\\Kelas XI RPL\\Semester 1\\Pak Isa\\5 Agustus 2026\\Admin Form\\Admin Form\\Form1.cs [Design]",
+              "RelativeToolTip": "Admin Form\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T06:20:35.916Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

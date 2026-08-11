@@ -15,3 +15,20 @@ C:\Users\Kaito\source\repos\Admin Form\Admin Form\obj\Debug\Admin_Form.Form5Mask
 C:\Users\Kaito\source\repos\Admin Form\Admin Form\obj\Debug\Admin_Form.Form6Jadwal.resources
 C:\Users\Kaito\source\repos\Admin Form\Admin Form\obj\Debug\Admin_Form.Form7Promo.resources
 C:\Users\Kaito\source\repos\Admin Form\Admin Form\obj\Debug\Admin_Form.Form8UbahStatus.resources
+C:\Users\Kaito\Documents\Kelas XI RPL\Semester 1\Pak Isa\5 Agustus 2026\Admin Form\Admin Form\bin\Debug\Admin Form.exe.config
+C:\Users\Kaito\Documents\Kelas XI RPL\Semester 1\Pak Isa\5 Agustus 2026\Admin Form\Admin Form\bin\Debug\Admin Form.exe
+C:\Users\Kaito\Documents\Kelas XI RPL\Semester 1\Pak Isa\5 Agustus 2026\Admin Form\Admin Form\bin\Debug\Admin Form.pdb
+C:\Users\Kaito\Documents\Kelas XI RPL\Semester 1\Pak Isa\5 Agustus 2026\Admin Form\Admin Form\obj\Debug\Admin Form.csproj.AssemblyReference.cache
+C:\Users\Kaito\Documents\Kelas XI RPL\Semester 1\Pak Isa\5 Agustus 2026\Admin Form\Admin Form\obj\Debug\Admin_Form.Form1Login.resources
+C:\Users\Kaito\Documents\Kelas XI RPL\Semester 1\Pak Isa\5 Agustus 2026\Admin Form\Admin Form\obj\Debug\Admin_Form.Form2Register.resources
+C:\Users\Kaito\Documents\Kelas XI RPL\Semester 1\Pak Isa\5 Agustus 2026\Admin Form\Admin Form\obj\Debug\Admin_Form.Form3Dashboard.resources
+C:\Users\Kaito\Documents\Kelas XI RPL\Semester 1\Pak Isa\5 Agustus 2026\Admin Form\Admin Form\obj\Debug\Admin_Form.Form4Bandara.resources
+C:\Users\Kaito\Documents\Kelas XI RPL\Semester 1\Pak Isa\5 Agustus 2026\Admin Form\Admin Form\obj\Debug\Admin_Form.Form5Maskapai.resources
+C:\Users\Kaito\Documents\Kelas XI RPL\Semester 1\Pak Isa\5 Agustus 2026\Admin Form\Admin Form\obj\Debug\Admin_Form.Form6Jadwal.resources
+C:\Users\Kaito\Documents\Kelas XI RPL\Semester 1\Pak Isa\5 Agustus 2026\Admin Form\Admin Form\obj\Debug\Admin_Form.Form7Promo.resources
+C:\Users\Kaito\Documents\Kelas XI RPL\Semester 1\Pak Isa\5 Agustus 2026\Admin Form\Admin Form\obj\Debug\Admin_Form.Form8UbahStatus.resources
+C:\Users\Kaito\Documents\Kelas XI RPL\Semester 1\Pak Isa\5 Agustus 2026\Admin Form\Admin Form\obj\Debug\Admin_Form.Properties.Resources.resources
+C:\Users\Kaito\Documents\Kelas XI RPL\Semester 1\Pak Isa\5 Agustus 2026\Admin Form\Admin Form\obj\Debug\Admin Form.csproj.GenerateResource.cache
+C:\Users\Kaito\Documents\Kelas XI RPL\Semester 1\Pak Isa\5 Agustus 2026\Admin Form\Admin Form\obj\Debug\Admin Form.csproj.CoreCompileInputs.cache
+C:\Users\Kaito\Documents\Kelas XI RPL\Semester 1\Pak Isa\5 Agustus 2026\Admin Form\Admin Form\obj\Debug\Admin Form.exe
+C:\Users\Kaito\Documents\Kelas XI RPL\Semester 1\Pak Isa\5 Agustus 2026\Admin Form\Admin Form\obj\Debug\Admin Form.pdb
