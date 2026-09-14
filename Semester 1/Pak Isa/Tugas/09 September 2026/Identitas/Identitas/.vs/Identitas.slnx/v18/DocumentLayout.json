@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kaito\\Documents\\Kelas XI RPL\\Semester 1\\Pak Isa\\Tugas\\09 September 2026\\Identitas\\Identitas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63F5D443-EA27-A910-0668-C8CD3267D6B5}|Identitas\\Identitas.csproj|c:\\users\\kaito\\documents\\kelas xi rpl\\semester 1\\pak isa\\tugas\\09 september 2026\\identitas\\identitas\\identitas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F5D443-EA27-A910-0668-C8CD3267D6B5}|Identitas\\Identitas.csproj|solutionrelative:identitas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kaito\\Documents\\Kelas XI RPL\\Semester 1\\Pak Isa\\Tugas\\09 September 2026\\Identitas\\Identitas\\Identitas\\Program.cs",
+              "RelativeDocumentMoniker": "Identitas\\Program.cs",
+              "ToolTip": "C:\\Users\\Kaito\\Documents\\Kelas XI RPL\\Semester 1\\Pak Isa\\Tugas\\09 September 2026\\Identitas\\Identitas\\Identitas\\Program.cs",
+              "RelativeToolTip": "Identitas\\Program.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAgwN0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T04:23:07.331Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

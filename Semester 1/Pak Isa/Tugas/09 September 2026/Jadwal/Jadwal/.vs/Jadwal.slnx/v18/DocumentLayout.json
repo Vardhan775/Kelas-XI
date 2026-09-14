@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kaito\\Documents\\Kelas XI RPL\\Semester 1\\Pak Isa\\Tugas\\09 September 2026\\Jadwal\\Jadwal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE433F8-6ECA-AB76-2EA7-559D229B0F45}|Jadwal\\Jadwal.csproj|c:\\users\\kaito\\documents\\kelas xi rpl\\semester 1\\pak isa\\tugas\\09 september 2026\\jadwal\\jadwal\\jadwal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE433F8-6ECA-AB76-2EA7-559D229B0F45}|Jadwal\\Jadwal.csproj|solutionrelative:jadwal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kaito\\Documents\\Kelas XI RPL\\Semester 1\\Pak Isa\\Tugas\\09 September 2026\\Jadwal\\Jadwal\\Jadwal\\Program.cs",
+              "RelativeDocumentMoniker": "Jadwal\\Program.cs",
+              "ToolTip": "C:\\Users\\Kaito\\Documents\\Kelas XI RPL\\Semester 1\\Pak Isa\\Tugas\\09 September 2026\\Jadwal\\Jadwal\\Jadwal\\Program.cs",
+              "RelativeToolTip": "Jadwal\\Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAmwLYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T01:41:25.4Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
